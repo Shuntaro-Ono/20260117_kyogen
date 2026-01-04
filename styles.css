@@ -1,0 +1,17 @@
+@keyframes shake {
+  0% { transform: translateX(0); }
+  25% { transform: translateX(-4px); }
+  50% { transform: translateX(4px); }
+  75% { transform: translateX(-4px); }
+  100% { transform: translateX(0); }
+}
+
+.callout.shake:hover {
+  animation: shake 0.4s ease-in-out;
+}
+
+.grey-section{
+  background: #f2f2f2;
+  padding: 1.2rem 1.5rem;
+  border-radius: 12px;
+}
