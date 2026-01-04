@@ -1,6 +1,6 @@
 ---
 title: "狂言基礎講座"
-subtitle: "1/17の狂言の会の前に"
+subtitle: "1/17の公演会の前に"
 pagetitle: "狂言"
 author: "大野隼太郎"
 format: 
